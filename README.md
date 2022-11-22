@@ -1,1 +1,1 @@
-# bigdata_stock_prediction
+# CUHKSZ bigdata course
