@@ -1,0 +1,325 @@
+Combination length: 81
+cutoff: 0.007414607569578592
+Slow: 487, Flat: 739, Fast: 633
+Slow: 102, Flat: 158, Fast: 114
+combinations_0: acc: 0.6283422459893048
+cutoff: 0.009673603404765542
+Slow: 470, Flat: 758, Fast: 629
+Slow: 99, Flat: 162, Fast: 111
+combinations_1: acc: 0.793010752688172
+cutoff: 0.011562956583131936
+Slow: 457, Flat: 767, Fast: 631
+Slow: 101, Flat: 157, Fast: 112
+combinations_2: acc: 0.772972972972973
+cutoff: 0.015315761933613678
+Slow: 429, Flat: 795, Fast: 628
+Slow: 83, Flat: 180, Fast: 104
+combinations_3: acc: 0.7602179836512262
+cutoff: 0.02055573697101436
+Slow: 378, Flat: 836, Fast: 633
+Slow: 72, Flat: 207, Fast: 83
+combinations_4: acc: 0.6961325966850829
+cutoff: 0.024895602097787912
+Slow: 358, Flat: 857, Fast: 627
+Slow: 66, Flat: 207, Fast: 84
+combinations_5: acc: 0.834733893557423
+cutoff: 0.027781711062790995
+Slow: 333, Flat: 877, Fast: 627
+Slow: 66, Flat: 202, Fast: 84
+combinations_6: acc: 0.7244318181818182
+cutoff: 0.03185868561491491
+Slow: 302, Flat: 905, Fast: 625
+Slow: 68, Flat: 191, Fast: 88
+combinations_7: acc: 0.7780979827089337
+cutoff: 0.0036554524709505004
+Slow: 518, Flat: 709, Fast: 632
+Slow: 112, Flat: 139, Fast: 123
+combinations_8: acc: 0.3716577540106952
+cutoff: 0.009716126876782465
+Slow: 468, Flat: 758, Fast: 629
+Slow: 99, Flat: 161, Fast: 110
+combinations_9: acc: 0.43513513513513513
+cutoff: 0.011601045049429812
+Slow: 453, Flat: 770, Fast: 630
+Slow: 101, Flat: 155, Fast: 112
+combinations_10: acc: 0.421195652173913
+cutoff: 0.015318797055819067
+Slow: 427, Flat: 796, Fast: 627
+Slow: 83, Flat: 178, Fast: 104
+combinations_11: acc: 0.4876712328767123
+cutoff: 0.020576958945042047
+Slow: 377, Flat: 836, Fast: 632
+Slow: 72, Flat: 205, Fast: 83
+combinations_12: acc: 0.5694444444444444
+cutoff: 0.02490854949774502
+Slow: 356, Flat: 857, Fast: 627
+Slow: 66, Flat: 205, Fast: 84
+combinations_13: acc: 0.5774647887323944
+cutoff: 0.027787218937733813
+Slow: 331, Flat: 878, Fast: 626
+Slow: 66, Flat: 201, Fast: 83
+combinations_14: acc: 0.5742857142857143
+cutoff: 0.03190260196325326
+Slow: 299, Flat: 907, Fast: 624
+Slow: 68, Flat: 190, Fast: 87
+combinations_15: acc: 0.5507246376811594
+cutoff: 0.0036470075992674315
+Slow: 518, Flat: 708, Fast: 631
+Slow: 111, Flat: 139, Fast: 122
+combinations_16: acc: 0.3736559139784946
+cutoff: 0.007446890568344296
+Slow: 485, Flat: 738, Fast: 632
+Slow: 101, Flat: 157, Fast: 112
+combinations_17: acc: 0.4243243243243243
+cutoff: 0.011645026784156791
+Slow: 450, Flat: 772, Fast: 629
+Slow: 100, Flat: 154, Fast: 112
+combinations_18: acc: 0.4207650273224044
+cutoff: 0.015327094155577098
+Slow: 427, Flat: 795, Fast: 626
+Slow: 83, Flat: 176, Fast: 104
+combinations_19: acc: 0.48484848484848486
+cutoff: 0.02063482014860363
+Slow: 375, Flat: 836, Fast: 632
+Slow: 71, Flat: 204, Fast: 83
+combinations_20: acc: 0.5698324022346368
+cutoff: 0.024910503362388713
+Slow: 356, Flat: 856, Fast: 626
+Slow: 66, Flat: 203, Fast: 84
+combinations_21: acc: 0.5750708215297451
+cutoff: 0.027802154354874282
+Slow: 330, Flat: 878, Fast: 625
+Slow: 66, Flat: 199, Fast: 83
+combinations_22: acc: 0.5718390804597702
+cutoff: 0.03190633729382992
+Slow: 297, Flat: 907, Fast: 624
+Slow: 68, Flat: 188, Fast: 87
+combinations_23: acc: 0.5481049562682215
+cutoff: 0.003649582495490646
+Slow: 516, Flat: 708, Fast: 631
+Slow: 110, Flat: 138, Fast: 122
+combinations_24: acc: 0.372972972972973
+cutoff: 0.007451945515203221
+Slow: 484, Flat: 738, Fast: 631
+Slow: 99, Flat: 157, Fast: 112
+combinations_25: acc: 0.4266304347826087
+cutoff: 0.009786099985454213
+Slow: 464, Flat: 760, Fast: 627
+Slow: 97, Flat: 159, Fast: 110
+combinations_26: acc: 0.4344262295081967
+cutoff: 0.015355555555840526
+Slow: 427, Flat: 793, Fast: 626
+Slow: 83, Flat: 174, Fast: 104
+combinations_27: acc: 0.481994459833795
+cutoff: 0.020658322241233255
+Slow: 374, Flat: 836, Fast: 631
+Slow: 70, Flat: 203, Fast: 83
+combinations_28: acc: 0.5702247191011236
+cutoff: 0.02493350221333398
+Slow: 354, Flat: 857, Fast: 625
+Slow: 66, Flat: 201, Fast: 84
+combinations_29: acc: 0.5726495726495726
+cutoff: 0.027833708926203612
+Slow: 327, Flat: 879, Fast: 625
+Slow: 65, Flat: 198, Fast: 83
+combinations_30: acc: 0.5722543352601156
+cutoff: 0.031944656996971334
+Slow: 295, Flat: 908, Fast: 623
+Slow: 68, Flat: 187, Fast: 86
+combinations_31: acc: 0.5483870967741935
+cutoff: 0.0036444399211654974
+Slow: 516, Flat: 706, Fast: 630
+Slow: 108, Flat: 138, Fast: 121
+combinations_32: acc: 0.3760217983651226
+cutoff: 0.0074521458922151285
+Slow: 484, Flat: 736, Fast: 630
+Slow: 99, Flat: 155, Fast: 111
+combinations_33: acc: 0.4246575342465753
+cutoff: 0.009787400358874293
+Slow: 464, Flat: 758, Fast: 626
+Slow: 97, Flat: 158, Fast: 108
+combinations_34: acc: 0.43526170798898073
+cutoff: 0.011665903557554586
+Slow: 449, Flat: 769, Fast: 628
+Slow: 100, Flat: 150, Fast: 111
+combinations_35: acc: 0.4155124653739612
+cutoff: 0.020674721302926143
+Slow: 374, Flat: 834, Fast: 630
+Slow: 70, Flat: 202, Fast: 81
+combinations_36: acc: 0.5722379603399433
+cutoff: 0.025007060553429838
+Slow: 352, Flat: 857, Fast: 624
+Slow: 66, Flat: 200, Fast: 82
+combinations_37: acc: 0.5747126436781609
+cutoff: 0.02785499537554404
+Slow: 325, Flat: 879, Fast: 624
+Slow: 65, Flat: 197, Fast: 81
+combinations_38: acc: 0.5743440233236151
+cutoff: 0.03197153549841577
+Slow: 292, Flat: 909, Fast: 622
+Slow: 68, Flat: 187, Fast: 83
+combinations_39: acc: 0.5532544378698225
+cutoff: 0.0036409177800808623
+Slow: 514, Flat: 705, Fast: 628
+Slow: 107, Flat: 135, Fast: 120
+combinations_40: acc: 0.3729281767955801
+cutoff: 0.007449140237036523
+Slow: 482, Flat: 735, Fast: 628
+Slow: 97, Flat: 154, Fast: 109
+combinations_41: acc: 0.42777777777777776
+cutoff: 0.009770049411960352
+Slow: 463, Flat: 755, Fast: 625
+Slow: 94, Flat: 156, Fast: 108
+combinations_42: acc: 0.43575418994413406
+cutoff: 0.011754659305308907
+Slow: 445, Flat: 770, Fast: 626
+Slow: 97, Flat: 148, Fast: 111
+combinations_43: acc: 0.4157303370786517
+cutoff: 0.01545556863696498
+Slow: 423, Flat: 792, Fast: 623
+Slow: 80, Flat: 169, Fast: 104
+combinations_44: acc: 0.29461756373937675
+cutoff: 0.025033671524759056
+Slow: 347, Flat: 858, Fast: 623
+Slow: 66, Flat: 198, Fast: 79
+combinations_45: acc: 0.577259475218659
+cutoff: 0.027940392683516422
+Slow: 319, Flat: 882, Fast: 622
+Slow: 65, Flat: 196, Fast: 77
+combinations_46: acc: 0.5798816568047337
+cutoff: 0.032088662259094965
+Slow: 287, Flat: 911, Fast: 620
+Slow: 68, Flat: 185, Fast: 80
+combinations_47: acc: 0.5555555555555556
+cutoff: 0.0036473862604767273
+Slow: 513, Flat: 703, Fast: 626
+Slow: 104, Flat: 135, Fast: 118
+combinations_48: acc: 0.37815126050420167
+cutoff: 0.0074716423992473874
+Slow: 478, Flat: 734, Fast: 628
+Slow: 94, Flat: 156, Fast: 105
+combinations_49: acc: 0.4394366197183099
+cutoff: 0.009755930446627347
+Slow: 461, Flat: 754, Fast: 623
+Slow: 93, Flat: 156, Fast: 104
+combinations_50: acc: 0.29461756373937675
+cutoff: 0.011795039777262272
+Slow: 441, Flat: 771, Fast: 624
+Slow: 97, Flat: 147, Fast: 107
+combinations_51: acc: 0.4188034188034188
+cutoff: 0.015495314532429694
+Slow: 419, Flat: 793, Fast: 621
+Slow: 80, Flat: 168, Fast: 100
+combinations_52: acc: 0.4827586206896552
+cutoff: 0.020931710543160127
+Slow: 362, Flat: 839, Fast: 627
+Slow: 69, Flat: 198, Fast: 76
+combinations_53: acc: 0.577259475218659
+cutoff: 0.027972131017268805
+Slow: 314, Flat: 884, Fast: 620
+Slow: 65, Flat: 195, Fast: 73
+combinations_54: acc: 0.5855855855855856
+cutoff: 0.03232222156720047
+Slow: 280, Flat: 915, Fast: 618
+Slow: 68, Flat: 182, Fast: 78
+combinations_55: acc: 0.5548780487804879
+cutoff: 0.0036500368889418023
+Slow: 511, Flat: 701, Fast: 625
+Slow: 103, Flat: 133, Fast: 116
+combinations_56: acc: 0.3778409090909091
+cutoff: 0.007478912057457934
+Slow: 474, Flat: 735, Fast: 626
+Slow: 93, Flat: 154, Fast: 103
+combinations_57: acc: 0.44
+cutoff: 0.009857981418895592
+Slow: 453, Flat: 759, Fast: 621
+Slow: 93, Flat: 155, Fast: 100
+combinations_58: acc: 0.4454022988505747
+cutoff: 0.011823032778309532
+Slow: 436, Flat: 772, Fast: 623
+Slow: 97, Flat: 145, Fast: 104
+combinations_59: acc: 0.4190751445086705
+cutoff: 0.01551562930655587
+Slow: 414, Flat: 793, Fast: 621
+Slow: 80, Flat: 168, Fast: 95
+combinations_60: acc: 0.4897959183673469
+cutoff: 0.021084556970468956
+Slow: 357, Flat: 841, Fast: 625
+Slow: 69, Flat: 197, Fast: 72
+combinations_61: acc: 0.5828402366863905
+cutoff: 0.025122605812731447
+Slow: 334, Flat: 865, Fast: 619
+Slow: 65, Flat: 197, Fast: 71
+combinations_62: acc: 0.5915915915915916
+cutoff: 0.03236707471077766
+Slow: 275, Flat: 916, Fast: 617
+Slow: 68, Flat: 177, Fast: 78
+combinations_63: acc: 0.5479876160990712
+cutoff: 0.003642091827109075
+Slow: 509, Flat: 700, Fast: 623
+Slow: 103, Flat: 130, Fast: 114
+combinations_64: acc: 0.3746397694524496
+cutoff: 0.007461984344757664
+Slow: 475, Flat: 731, Fast: 624
+Slow: 95, Flat: 150, Fast: 100
+combinations_65: acc: 0.43478260869565216
+cutoff: 0.009901145793390442
+Slow: 447, Flat: 761, Fast: 620
+Slow: 93, Flat: 151, Fast: 99
+combinations_66: acc: 0.4402332361516035
+cutoff: 0.011825567341083502
+Slow: 434, Flat: 771, Fast: 621
+Slow: 97, Flat: 145, Fast: 99
+combinations_67: acc: 0.4252199413489736
+cutoff: 0.015531501023188803
+Slow: 409, Flat: 795, Fast: 619
+Slow: 80, Flat: 166, Fast: 92
+combinations_68: acc: 0.4911242603550296
+cutoff: 0.02109994569190898
+Slow: 352, Flat: 843, Fast: 623
+Slow: 69, Flat: 193, Fast: 71
+combinations_69: acc: 0.5795795795795796
+cutoff: 0.025182596330546623
+Slow: 329, Flat: 867, Fast: 617
+Slow: 65, Flat: 192, Fast: 71
+combinations_70: acc: 0.5853658536585366
+cutoff: 0.028144938639064917
+Slow: 304, Flat: 887, Fast: 617
+Slow: 65, Flat: 185, Fast: 73
+combinations_71: acc: 0.5727554179566563
+cutoff: 0.003649431031006928
+Slow: 520, Flat: 708, Fast: 633
+Slow: 113, Flat: 139, Fast: 124
+combinations_72: acc: 0.7792553191489362
+cutoff: 0.00744605451319557
+Slow: 486, Flat: 739, Fast: 632
+Slow: 102, Flat: 158, Fast: 112
+combinations_73: acc: 0.42473118279569894
+cutoff: 0.009751224124849673
+Slow: 465, Flat: 760, Fast: 628
+Slow: 98, Flat: 160, Fast: 110
+combinations_74: acc: 0.43478260869565216
+cutoff: 0.01166530707831465
+Slow: 449, Flat: 771, Fast: 629
+Slow: 100, Flat: 152, Fast: 112
+combinations_75: acc: 0.4175824175824176
+cutoff: 0.015356392655848273
+Slow: 425, Flat: 793, Fast: 625
+Slow: 82, Flat: 172, Fast: 104
+combinations_76: acc: 0.48044692737430167
+cutoff: 0.020837890793371668
+Slow: 367, Flat: 838, Fast: 628
+Slow: 70, Flat: 197, Fast: 81
+combinations_77: acc: 0.5660919540229885
+cutoff: 0.02506772206125044
+Slow: 340, Flat: 862, Fast: 621
+Slow: 66, Flat: 199, Fast: 73
+combinations_78: acc: 0.5887573964497042
+cutoff: 0.028076533580108386
+Slow: 309, Flat: 886, Fast: 618
+Slow: 65, Flat: 190, Fast: 73
+combinations_79: acc: 0.5792682926829268
+cutoff: 0.03244243439073859
+Slow: 270, Flat: 918, Fast: 615
+Slow: 67, Flat: 173, Fast: 78
+combinations_80: acc: 0.5440251572327044
